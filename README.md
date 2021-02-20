@@ -1,4 +1,4 @@
-# -team51-tam-trial-kimberley-clow
+# - Turn It Around Website Project, Phase 1
 
 The project entails the development of a new WordPress website, for the business Turn It Around. The website should be fully responsive and include the following: 
 1. Partner’s Branding Guidelines Implemented  
